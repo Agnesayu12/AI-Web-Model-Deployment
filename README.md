@@ -36,8 +36,8 @@ https://drive.google.com/drive/folders/1EaPl-LK3NTf_KlCJqPc3aLHdigRe3NJ5?usp=sha
 5. Native Country<br>
 
 <h2>Jenis Bahasa Pemrograman yang Digunakan</h2>
-1. HTML<br>
-2. CSS<br>
+1. HTML(website)<br>
+2. ipynb(model)<br>
 
 <h2>Link Web</h2>
 http://127.0.0.1:5000/
