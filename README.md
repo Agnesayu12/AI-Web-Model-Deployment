@@ -1,6 +1,9 @@
 <h2>Gambaran Umum</h2><br>
 Dataset ini dirancang untuk memprediksi tingkat penghasilan berdasarkan berbagai fitur yang tersedia. Tugas ini digunakan untuk masalah klasifikasi dengan tujuan memprediksi apakah penghasilan seseorang berada di bawah atau di atas 50k.
 
+<h2>Format Dataset</h2><br>
+Dataset disajikan dalam format tabular, sebagai file CSV (Comma-Separated Values), di mana setiap baris mewakili individu dan setiap kolom mewakili fitur atau variabel target.
+
 <h2>Fitur</h2><br>
 Dataset ini mencakup fitur-fitur berikut:
 <br>
@@ -49,5 +52,3 @@ https://drive.google.com/drive/folders/1EaPl-LK3NTf_KlCJqPc3aLHdigRe3NJ5?usp=sha
 
 ![akhir](https://github.com/Agnesayu12/AI-Web-Model-Deployment/assets/108937238/3a487485-e471-4209-af83-05c766f13ba0)
 
-<h2>Format Dataset</h2><br>
-Dataset disajikan dalam format tabular, sebagai file CSV (Comma-Separated Values), di mana setiap baris mewakili individu dan setiap kolom mewakili fitur atau variabel target.
