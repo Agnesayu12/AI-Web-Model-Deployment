@@ -42,7 +42,7 @@ https://drive.google.com/drive/folders/1EaPl-LK3NTf_KlCJqPc3aLHdigRe3NJ5?usp=sha
 1. HTML(website)<br>
 2. ipynb(model)<br>
 
-<h2>Link Web</h2>
+<h2>Halaman Web</h2>
 <br>
 <h3>Halaman Awal</h3><br>
 
