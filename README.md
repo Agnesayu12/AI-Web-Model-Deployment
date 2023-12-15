@@ -40,8 +40,12 @@ https://drive.google.com/drive/folders/1EaPl-LK3NTf_KlCJqPc3aLHdigRe3NJ5?usp=sha
 2. ipynb(model)<br>
 
 <h2>Link Web</h2>
-http://127.0.0.1:5000/
-
+<br>
+<h3>Halaman Awal</h3><br>
+![awal](https://github.com/Agnesayu12/AI-Web-Model-Deployment/assets/108937238/6d5b5b45-07b7-467f-bc9a-edbede11fc16)
+<h3>Halaman Akhir</h3><br>
+<br>
+![akhir](https://github.com/Agnesayu12/AI-Web-Model-Deployment/assets/108937238/3a487485-e471-4209-af83-05c766f13ba0)
 
 <h2>Format Dataset</h2><br>
 Dataset disajikan dalam format tabular, sebagai file CSV (Comma-Separated Values), di mana setiap baris mewakili individu dan setiap kolom mewakili fitur atau variabel target.
