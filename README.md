@@ -1,5 +1,5 @@
 <h2>Gambaran Umum</h2><br>
-Dataset ini, yang disebut "Penghasilan Tabular," dirancang untuk memprediksi tingkat penghasilan berdasarkan berbagai fitur demografis. Tugas ini adalah masalah klasifikasi di mana tujuannya adalah memprediksi apakah penghasilan seseorang berada di bawah atau di atas batas tertentu.
+Dataset ini dirancang untuk memprediksi tingkat penghasilan berdasarkan berbagai fitur yang tersedia. Tugas ini digunakan untuk masalah klasifikasi dengan tujuan memprediksi apakah penghasilan seseorang berada di bawah atau di atas 50k.
 
 <h2>Fitur</h2><br>
 Dataset ini mencakup fitur-fitur berikut:
@@ -22,8 +22,8 @@ Keterangan ini memberikan gambaran umum<br>
 <h2>Variabel Target</h2>
 Variabel target adalah tingkat penghasilan, yang dikategorikan ke dalam dua kelas:
 <br>
-Kelas 0: Penghasilan di bawah batas tertentu.<br>
-Kelas 1: Penghasilan di atas atau sama dengan batas tersebut.<br>
+Kelas 0: Penghasilan di bawah 50k.<br>
+Kelas 1: Penghasilan di atas 50k.<br>
 <br>
 <h2>Link DataSet</h2>
 https://drive.google.com/drive/folders/1EaPl-LK3NTf_KlCJqPc3aLHdigRe3NJ5?usp=sharing
